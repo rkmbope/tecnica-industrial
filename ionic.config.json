@@ -1,0 +1,7 @@
+{
+  "name": "Scout",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
